@@ -5,19 +5,19 @@ class Solution {
             return false;
         }
 
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] count = new int[26];
 
-        for (int i = 0; i < s.length(); i++) {
-            map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
-            map.put(t.charAt(i), map.getOrDefault(t.charAt(i), 0) - 1);
-        }
+    for (int i = 0; i < s.length(); i++) {
+    count[s.charAt(i) - 'a']++;
+    count[t.charAt(i) - 'a']--;
+    }
 
-        for (int count : map.values()) {
-            if (count != 0) {
-                return false;
-            }
-        }
+    for (int x : count) {
+    if (x != 0) {
+        return false;
+    }
+}
 
-        return true;
+return true;
     }
 }

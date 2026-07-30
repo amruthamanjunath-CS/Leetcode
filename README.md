@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0242-valid-anagram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->

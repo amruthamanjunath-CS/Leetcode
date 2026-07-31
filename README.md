@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Number Theory
 |  |
 | ------- |

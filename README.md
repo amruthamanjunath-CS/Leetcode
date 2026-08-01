@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |

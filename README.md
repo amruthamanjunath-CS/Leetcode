@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0888-fair-candy-swap) |
 ## Number Theory
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0888-fair-candy-swap](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
 |  |
 | ------- |

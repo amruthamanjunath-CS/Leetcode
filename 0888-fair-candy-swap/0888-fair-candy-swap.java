@@ -16,9 +16,10 @@ class Solution {
             if(set.contains(aliceSizes[i]-diff/2)){
                 ans[1]=aliceSizes[i]-diff/2;
                 ans[0]=aliceSizes[i];
+            return ans; 
             }
         }
-       return ans; 
+        return ans;
     }
 }
         

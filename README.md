@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0541-reverse-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0541-reverse-string-ii) |
 ## String Matching
 |  |
 | ------- |

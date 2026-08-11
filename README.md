@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
 |  |

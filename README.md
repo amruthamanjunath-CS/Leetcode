@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

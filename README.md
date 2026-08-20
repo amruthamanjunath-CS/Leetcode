@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0888-fair-candy-swap](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0258-add-digits) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |

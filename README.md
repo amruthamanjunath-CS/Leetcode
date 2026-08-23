@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1927-sum-game](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1927-sum-game](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Interactive
 |  |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->

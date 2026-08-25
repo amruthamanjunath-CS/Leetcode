@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0888-fair-candy-swap) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0409-longest-palindrome) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |

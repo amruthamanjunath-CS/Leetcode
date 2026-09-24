@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0888-fair-candy-swap](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/amruthamanjunath-CS/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
